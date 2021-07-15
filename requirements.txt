@@ -1,4 +1,4 @@
-adafruit-io==2.3
+adafruit-io
 RESTClient
 python-telegram-bot==13.0
 Updater
