@@ -1,5 +1,5 @@
 adafruit-io
-RESTClient
+MQTTClient
 python-telegram-bot==13.0
 Updater
 MessageHandler
