@@ -1,4 +1,4 @@
-adafruit-io-python==2.1.0
+adafruit-io-python
 Client
 python-telegram-bot==13.0
 Updater
