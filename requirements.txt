@@ -1,5 +1,5 @@
-adafruit-io
-adafruit-io-python-client
+adafruit-io-python==2.1.0
+Client
 python-telegram-bot==13.0
 Updater
 MessageHandler
