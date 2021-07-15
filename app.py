@@ -41,7 +41,7 @@ def func1(bot,update):
   else:
     bot.message.reply_text('invalid text')
 
-aio = Client('zaydu1001', 'aio_xhVh38lkF4GKaaWnUG67jalIeHyB')
+aio = Client('zaydu1001', 'aio_XGDi07gpq7Lj6YxdtYlkGMwYpK5y')
 BOT_TOKEN = '1876555113:AAE_3X7EIU0M3-duep30tHo0jNwVKolIPpc'
 u = Updater(BOT_TOKEN,use_context=True)
 dp = u.dispatcher
