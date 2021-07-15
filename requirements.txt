@@ -1,0 +1,6 @@
+adafruit-io
+telegram-bot==13.0
+Client
+Updater
+MessageHandler
+Filters
