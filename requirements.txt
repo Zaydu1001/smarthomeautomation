@@ -1,6 +1,6 @@
 adafruit-io
 python-telegram-bot==13.0
-Client
+adafruit-io-Client
 Updater
 MessageHandler
 Filters
